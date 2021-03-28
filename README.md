@@ -46,5 +46,15 @@ I personally considered it to be a minor inconvenience given how easy it was to
 get so many notes safely out of Evernote.
 
 
+## Who built this? / Contact
+
+My name is Douglas Muth, and I am a software engineer in Philadelphia, PA.
+
+There are several ways to get in touch with me:
+- Email to doug.muth AT gmail DOT com or dmuth AT dmuth DOT org
+- [Facebook](https://facebook.com/dmuth) and [Twitter](http://twitter.com/dmuth)
+- [LinkedIn](https://linkedin.com/in/dmuth)
+
+Feel free to reach out to me if you have any comments, suggestions, or bug reports.
 
 
