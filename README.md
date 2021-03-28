@@ -30,7 +30,9 @@ If conversation is successful, you'll see a message like this:
 
 `Conversion finished: 12 succeeded, 0 skipped, 0 failed. Total notes: 12`
 
-...and your exported notes will be in the `markdown-exports/` directory.
+...and your exported notes will be in the `markdown-exports/` directory:
+
+<img src="img/2-after.png" />
 
 
 ## Bugs
