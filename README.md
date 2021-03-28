@@ -15,10 +15,14 @@ something like <a href="https://obsidian.md/">Obsidian</a>.
 
 You'll need <a href="https://nodejs.org/en/">Node.js</a> and `npx` installed.
 
+Your Evernote notebooks to be converted should be in the directory `evernote-notebooks/`:
+
+<img src="img/1-before.png" />
+
 
 ## Usage
 
-- `./convert-evernote-to-markdown.sh notebook `
+- `./convert-evernote-to-markdown.sh`
 
 If Yarle is not installed, it will be installed automatically.
 

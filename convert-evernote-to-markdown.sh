@@ -27,6 +27,9 @@ else
 	echo "# Yarle already installed..."
 fi
 
+#
+# Write our configuration file which Yarle uses.
+#
 cat config.json.IN \
 	| sed -e "s|%DIR%|$(pwd)|g" -e "s|%NOTEBOOK%|${NOTEBOOK}|g" -e "s|%TARGET%|${TARGET}|g" \
 	> config.json
