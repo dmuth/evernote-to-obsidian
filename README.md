@@ -18,7 +18,7 @@ You'll need <a href="https://nodejs.org/en/">Node.js</a> and `npx` installed.
 
 ## Usage
 
-- `./import-from-evernote.sh notebook target_dir`
+- `./evernote-to-markdown.sh notebook target_dir`
 
 If Yarle is not installed, it will be installed automatically.
 
