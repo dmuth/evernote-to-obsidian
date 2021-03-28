@@ -6,19 +6,18 @@
 # Errors are fatal
 set -e
 
-if test ! "$2"
+if test ! "$1"
 then
 	echo "! "
 	echo "! Syntax: $0 notebook target_dir"
 	echo "! "
 	echo "! notebook - The Evernote .enex file we want to read"
-	echo "! target_dir - Where are we writing the markdown?"
 	echo "! "
 	exit 1
 fi
 
 NOTEBOOK=$1
-TARGET=$2
+TARGET="markdown-exports"
 
 if test ! $(which yarle) 
 then

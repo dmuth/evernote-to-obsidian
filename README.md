@@ -18,17 +18,15 @@ You'll need <a href="https://nodejs.org/en/">Node.js</a> and `npx` installed.
 
 ## Usage
 
-- `./evernote-to-markdown.sh notebook target_dir`
+- `./convert-evernote-to-markdown.sh notebook `
 
 If Yarle is not installed, it will be installed automatically.
 
-`target_dir` does not need to exist--it will be created by Yarle. 
-Notes and will be placed inside that folder, and their attachments will
-go into a folder called `_resources`.
-
-If conversation is successfull, you'll see a message like this:
+If conversation is successful, you'll see a message like this:
 
 `Conversion finished: 12 succeeded, 0 skipped, 0 failed. Total notes: 12`
+
+...and your exported notes will be in the `markdown-exports/` directory.
 
 
 ## Bugs

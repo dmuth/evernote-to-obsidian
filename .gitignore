@@ -8,5 +8,7 @@ config.json
 
 .DS_Store
 
-Evernote
+evernote-notebooks
+markdown-exports
+
 
