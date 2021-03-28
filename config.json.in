@@ -1,0 +1,21 @@
+{
+    "enexSource": "%DIR%/%NOTEBOOK%",
+    "templateFile": "%DIR%/template.tmpl",
+    "outputDir": "%DIR%/%TARGET%",
+    "isZettelkastenNeeded": false,
+    "plainTextNotesOnly": false,
+    "skipWebClips": false,
+    "useHashTags": true,
+    "outputFormat": "StandardMD",
+    "urlEncodeFileNamesAndLinks": false,
+    "skipEnexFileNameFromOutputPath": false,
+    "haveEnexLevelResources": false,
+    "monospaceIsCodeBlock": false,
+    "keepMDCharactersOfENNotes": false,
+    "nestedTags": {
+      "separatorInEN": "_",
+      "replaceSeparatorWith": "/",
+      "replaceSpaceWith": "-"
+   }
+}
+

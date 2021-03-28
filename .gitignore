@@ -1,0 +1,12 @@
+
+# Vim droppings
+*~
+*.swp
+
+# Don't ingest our config.json file
+config.json
+
+.DS_Store
+
+Evernote
+
