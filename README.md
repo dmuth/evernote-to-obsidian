@@ -22,7 +22,10 @@ Your Evernote notebooks to be converted should be in the directory `evernote-not
 
 ## Usage
 
-- `./convert-evernote-to-markdown.sh`
+- `./convert-evernote-to-markdown.sh directory`
+
+`directory` is the directory containing Evernote `.enex` format exported notebooks.  
+I personally recommend `evernote-notebooks/` for the name.
 
 If Yarle is not installed, it will be installed automatically.
 

@@ -9,9 +9,9 @@ set -e
 if test ! "$1"
 then
 	echo "! "
-	echo "! Syntax: $0 notebook target_dir"
+	echo "! Syntax: $0 directory"
 	echo "! "
-	echo "! notebook - The Evernote .enex file we want to read"
+	echo "! directory - The directory containing Evernote .enex format notebooks"
 	echo "! "
 	exit 1
 fi
