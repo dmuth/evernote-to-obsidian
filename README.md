@@ -17,7 +17,7 @@ You'll need <a href="https://nodejs.org/en/">Node.js</a> and `npx` installed.
 
 Your Evernote notebooks to be converted should be in the directory `evernote-notebooks/`:
 
-<img src="img/1-before.png" />
+<img src="img/1-before.png" width="400" align="center" />
 
 
 ## Usage
@@ -32,7 +32,7 @@ If conversation is successful, you'll see a message like this:
 
 ...and your exported notes will be in the `markdown-exports/` directory:
 
-<img src="img/2-after.png" />
+<img src="img/2-after.png" width="600" />
 
 
 ## Bugs
