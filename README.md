@@ -49,6 +49,13 @@ I personally considered it to be a minor inconvenience given how easy it was to
 get so many notes safely out of Evernote.
 
 
+## Further Reading
+
+You can read about how I used this script to migrate 3,000 Evernotes from Evernote to Obsidian
+<a href="https://www.dmuth.org/migrating-from-evernote-to-obisidian/">over on my blog</a>
+or <a href="https://dmuth.medium.com/migrating-your-notes-from-evernote-to-obsidian-dcdbf9ffb4f0">on Medium</a>.
+
+
 ## Who built this? / Contact
 
 My name is Douglas Muth, and I am a software engineer in Philadelphia, PA.
@@ -59,5 +66,4 @@ There are several ways to get in touch with me:
 - [LinkedIn](https://linkedin.com/in/dmuth)
 
 Feel free to reach out to me if you have any comments, suggestions, or bug reports.
-
 
