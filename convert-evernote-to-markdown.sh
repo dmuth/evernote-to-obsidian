@@ -30,7 +30,7 @@ fi
 #
 # Write our configuration file which Yarle uses.
 #
-cat config.json.IN \
+cat config.json.in \
 	| sed -e "s|%DIR%|$(pwd)|g" -e "s|%NOTEBOOK%|${NOTEBOOK}|g" -e "s|%TARGET%|${TARGET}|g" \
 	> config.json
 
