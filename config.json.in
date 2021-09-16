@@ -1,5 +1,7 @@
 {
-    "enexSource": "%DIR%/%NOTEBOOK%",
+    "enexSources": [
+        "%DIR%/%NOTEBOOK%"
+    ],
     "templateFile": "%DIR%/template.tmpl",
     "outputDir": "%DIR%/%TARGET%",
     "isZettelkastenNeeded": false,
