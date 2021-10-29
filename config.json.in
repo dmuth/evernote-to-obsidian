@@ -8,7 +8,7 @@
     "plainTextNotesOnly": false,
     "skipWebClips": false,
     "useHashTags": true,
-    "outputFormat": "StandardMD",
+    "outputFormat": "ObsidianMD",
     "urlEncodeFileNamesAndLinks": false,
     "skipEnexFileNameFromOutputPath": false,
     "haveEnexLevelResources": false,
