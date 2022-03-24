@@ -11,13 +11,26 @@
     "outputFormat": "ObsidianMD",
     "urlEncodeFileNamesAndLinks": false,
     "skipEnexFileNameFromOutputPath": false,
-    "haveEnexLevelResources": false,
     "monospaceIsCodeBlock": false,
     "keepMDCharactersOfENNotes": false,
+    "keepOriginalAmountOfNewlines": false,
+    "addExtensionToInternalLinks": true,
     "nestedTags": {
       "separatorInEN": "_",
       "replaceSeparatorWith": "/",
       "replaceSpaceWith": "-"
-   }
+   },
+   "resourcesDir": "_resources",
+   "turndownOptions": {
+      "headingStyle": "atx"
+   },
+   "dateFormat": "YYYY-MM-DD",
+   "haveEnexLevelResources": true,
+   "haveGlobalResources": false,
+    "logseqSettings":{
+        "journalNotes": false
+    },
+   "obsidianSettings": {
+      "omitLinkDisplayName": false
+    }
 }
-
