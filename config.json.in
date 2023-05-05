@@ -7,7 +7,7 @@
     "isZettelkastenNeeded": false,
     "plainTextNotesOnly": false,
     "skipWebClips": false,
-    "useHashTags": true,
+    "useHashTags": false,
     "outputFormat": "ObsidianMD",
     "urlEncodeFileNamesAndLinks": false,
     "skipEnexFileNameFromOutputPath": false,
