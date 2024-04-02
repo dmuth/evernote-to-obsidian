@@ -4,10 +4,10 @@
 <img src="./img/obsidian-logo.png" align="right" width="250" />
 
 This repo contains a shell script wrapper and pre-built configuration files for
-the excellet <a href="https://github.com/akosbalasko/yarle">Yarle</a> utility
+the excellent <a href="https://github.com/akosbalasko/yarle">Yarle</a> utility
 to convert your Evernote `.enex` files to Markdown documents.
 
-Once your have your Evernotes in Markdown, you can then use them in 
+Once you have your Evernotes in Markdown, you can then use them in 
 something like <a href="https://obsidian.md/">Obsidian</a>.
 
 
@@ -27,9 +27,10 @@ Your Evernote notebooks to be converted should be in the directory `evernote-not
 `directory` is the directory containing Evernote `.enex` format exported notebooks.  
 I personally recommend `evernote-notebooks/` for the name.
 
-If Yarle is not installed, it will be installed automatically.
+If Yarle is not installed, it will be installed automatically. In this case, you will need to run
+it in `sudo` mode.
 
-If conversation is successful, you'll see a message like this:
+If conversion is successful, you'll see a message like this:
 
 `Conversion finished: 12 succeeded, 0 skipped, 0 failed. Total notes: 12`
 
@@ -40,7 +41,7 @@ If conversation is successful, you'll see a message like this:
 
 ## Bugs
 
-I used this script to convert several dozen Evernote notebooks I had totalling
+I used this script to convert several dozen Evernote notebooks totalling
 over 3,000 notes.  All notes and attachments were exported successfully.
 
 The only issue I had is that some of the paths to the attachments from the notes
